@@ -1,0 +1,36 @@
+\documentclass[../BTL.tex]{subfiles}
+\begin{document}
+
+\section{Đặt vấn đề}
+\label{section:chap1-dat-van-de}
+Trong bối cảnh toàn cầu hóa và sự phát triển mạnh mẽ của công nghệ thông tin thì thể thao, đặc biệt là bóng đá, đã trở thành một phần không thể thiếu trong đời sống văn hóa và giải trí của con người. Với sự gia tăng của người hâm mộ và sự quan tâm đến các thông tin liên quan đến cầu thủ, đội bóng, và các giải đấu, nhu cầu về một nền tảng trực tuyến cung cấp thông tin chi tiết và chính xác về bóng đá ngày càng trở nên cấp thiết.
+
+Vì vậy trong bài tập lớn môn này, nhóm em đề xuất xây dựng một trang web đơn giản , cung cấp thông tin về giá trị chuyển nhượng, thống kê cầu thủ, lịch sử thi đấu và nhiều dữ liệu khác liên quan đến bóng đá, lấy cảm hứng từ website Transfermarkt - website chuyên cung cấp các thông tin thống kê cầu thủ, huấn luyện viên và các dữ liệu khác trong bóng đá
+\section{Mục tiêu và phạm vi đề tài}
+Với những vấn đề đã trình bày trong mục \ref{section:chap1-dat-van-de}, trong bài tập lớn này nhóm em sẽ phát triển một ứng dụng web cơ bản. Các nhóm chức năng chính dự định sẽ triển khai là:
+\begin{itemize}
+    \item Người dùng có thể xem các thông tin ví dụ như thông tin về cầu thủ, chuyển nhượng, các mùa giải, giải đấu, trận đấu, cũng như các thông tin thống kê về câu lạc bộ, giải đấu
+    \item Quản trị viên có thể thực hiện các chức năng thêm, sửa, xóa dữ liệu
+\end{itemize}
+\section{Định hướng giải pháp}
+Với việc xây dựng ứng dụng web theo mục tiêu đã trình bày ở phần trên, em đã định hướng xây dựng nền tảng ứng dụng web
+cho người dùng thực hiện chức năng của mình. Mã nguồn của hệ
+thống sẽ được chia làm 2 phần:
+\begin{itemize}
+    \item Giao diện web(frontend): hiển thị giao diện, người dùng tương tác và cập nhật dữ liệu.
+    \item Backend: xử lý logic, thao tác với cơ sở dữ liệu và giao tiếp với frontend thông qua API 
+\end{itemize}
+Phần giao diện web - frontend sử dụng framework React với ngôn ngữ lập trình Javascript , giao tiếp với phần backend thông qua API
+
+Phần backend nhóm em sẽ sử dụng framework Spring Boot với ngôn ngữ lập trình Java với các ưu điểm về bảo mật cũng như được mã nguồn mở, được xây dựng bởi cộng đồng lập trình viên cũng như các chuyên gia trên thế giới
+
+Phần cơ sở dữ liệu nhóm em sẽ sử dụng MySQL cho môi trường phát triển và SQL Server cho môi trường triển khai. Việc sử dụng MySQL trong môi trường phát triển vì nó nhẹ, dễ sử dụng, dễ thao tác. Sử dụng SQL Server để triển khai vì Azure cung cấp cơ sở dữ liệu SQL miễn phí có giới hạn trong tháng.
+\section{Bố cục bài tập lớn}
+Phần báo cáo còn lại của bài tập lớn được tổ chức như sau:
+\begin{itemize}
+    \item Chương 2 sẽ trình bày các kiến thức được sử dụng trong BTL
+    \item Chương 3 sẽ trình bày các bước phân tích, thiết kế hệ thống 
+    \item Chương 4 sẽ trình bày các bước cài đặt và hướng dẫn sử dụng hệ thống cũng như các giao diện chính của ứng dụng web
+    \item Chương 5 sẽ trình bày phần kết luận, đánh giá và hướng phát triển của nhóm
+\end{itemize}
+\end{document}
