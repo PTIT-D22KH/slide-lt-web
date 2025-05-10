@@ -1,0 +1,122 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{react-docs}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{React Docs}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Learn React}
+    \verb{url}
+    \verb https://react.dev/learn
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{antd-docs}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Ant Design}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Components Overview - Ant Design}
+    \verb{url}
+    \verb https://ant.design/components/overview/
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{hoidanit-restful}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={{Hỏi dân IT}},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Java Spring RESTful APIs – Xây Dựng Backend với Spring
+  Boot}
+    \verb{url}
+    \verb https://freestudy247.com/courses/java-spring-restful-apis-xay-dung-ba
+    \verb ckend-voi-spring-boot/
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{vanthoi-github}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=v}{%
+         family={{vanthoi08}},
+         familyi={v\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{v1}
+    \strng{fullhash}{v1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Java-Spring-REST-Ultimate-For-Beginners}
+    \verb{url}
+    \verb https://github.com/vanthoi08/Java-Spring-REST-Ultimate-For-Beginners
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{jwt-gfg}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={{GeeksForGeeks}},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{JSON Web Token (JWT)}
+    \verb{url}
+    \verb https://www.geeksforgeeks.org/json-web-token-jwt/
+    \endverb
+    \field{urlday}{14}
+    \field{urlmonth}{04}
+    \field{urlyear}{2025}
+  \endentry
+\enddatalist
+\endinput

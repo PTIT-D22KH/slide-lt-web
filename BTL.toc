@@ -1,0 +1,216 @@
+\ttl@change@i {\@ne }{chapter}{0.0cm}{\bfseries \vspace {0.3cm}}{{\bfseries {\scshape } CHƯƠNG \thecontentslabel .\ }}{}{\titlerule *[0.3pc]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{0.0cm}{\vspace {0.3cm}}{\thecontentslabel \ }{}{\titlerule *[0.3pc]{.}\contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{1.0cm}{\vspace {0.3cm}}{\thecontentslabel \ }{}{\titlerule *[0.3pc]{.}\contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}MÔ TẢ, KHẢO SÁT VÀ XÁC ĐỊNH YÊU CẦU BÀI TOÁN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Đặt vấn đề}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Mục tiêu và phạm vi đề tài}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Định hướng giải pháp}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Bố cục bài tập lớn}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {2}KIẾN THỨC ÁP DỤNG}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Phân tích và thiết kế hệ thống}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Biểu đồ phân cấp chức năng (BFD - Bussiness Function Diagram)}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Biểu đồ luồng dữ liệu (DFD - Data Flow Diagram)}{3}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Cơ sở dữ liệu}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Giới thiệu}{3}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2} Kiến thức áp dụng}{3}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Ngôn ngữ lập trình}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Java}{6}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {a}Giới thiệu}{6}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {b}Kiến thức áp dụng }{6}{subsubsection.2.3.1.2}%
+\contentsline {subsection}{\numberline {2.3.2}Javascript}{6}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {a} Giới thiệu}{6}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {b} Kiến thức áp dụng}{7}{subsubsection.2.3.2.2}%
+\contentsline {section}{\numberline {2.4}Framework}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Spring Boot}{7}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {a} Giới thiệu}{7}{subsubsection.2.4.1.1}%
+\contentsline {subsubsection}{\numberline {b} Kiến thức áp dụng}{8}{subsubsection.2.4.1.2}%
+\contentsline {subsection}{\numberline {2.4.2}React}{8}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {a} Giới thiệu}{8}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {b} Kiến thức áp dụng}{8}{subsubsection.2.4.2.2}%
+\contentsline {section}{\numberline {2.5} Các công cụ khác}{9}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Docker}{9}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {a} Giới thiệu}{9}{subsubsection.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {b} Kiến thức áp dụng}{9}{subsubsection.2.5.1.2}%
+\contentsline {subsection}{\numberline {2.5.2}Cloudinary}{9}{subsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {a} Giới thiệu}{9}{subsubsection.2.5.2.1}%
+\contentsline {subsubsection}{\numberline {b} Kiến thức áp dụng}{10}{subsubsection.2.5.2.2}%
+\contentsline {chapter}{\numberline {3}PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Phân tích thiết kế CSDL}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Các thực thể chính:}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Các quan hệ chính:}{11}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Phân tích thiết kế chức năng}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Kiến trúc tổng thể:}{12}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Các module chức năng chính:}{12}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {a}Quản lý người dùng}{12}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {b}Quản lý cầu thủ:}{14}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {c}Quản lý câu lạc bộ:}{14}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {d}Quản lý huấn luyện viên:}{14}{subsubsection.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {e} Quản lý giải đấu(chỉ admin):}{15}{subsubsection.3.2.2.5}%
+\contentsline {subsubsection}{\numberline {f}Quản lý mùa giải(chỉ admin):}{15}{subsubsection.3.2.2.6}%
+\contentsline {subsubsection}{\numberline {g}Thống kê và phân tích:}{15}{subsubsection.3.2.2.7}%
+\contentsline {subsubsection}{\numberline {h}Tương tác giao diện:}{15}{subsubsection.3.2.2.8}%
+\contentsline {subsubsection}{\numberline {i}Xử lý nghiệp vụ đặc biệt:}{15}{subsubsection.3.2.2.9}%
+\contentsline {section}{\numberline {3.3}Các chức năng chưa làm được}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Sửa đổi thông tin cá nhân tài khoản}{16}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2} Tự động lấy dữ liệu từ những trang web cung cấp dữ liệu}{16}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3} Những thống kê phức tạp hơn liên quan đến cầu thủ}{16}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4} Báo cáo và xuất dữ liệu}{16}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5} Tối ưu hóa hệ thống}{16}{subsection.3.3.5}%
+\contentsline {chapter}{\numberline {4}CÀI ĐẶT VÀ HƯỚNG DẪN SỬ DỤNG}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1} Cài đặt CSDL}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2} Cài đặt giả lập môi trường server hosting}{17}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1} Cài đặt giả lập môi trường server hosting backend}{17}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2} Cài đặt giả lập môi trường server hosting frontend}{19}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3} Cài đặt môi trường hosting ảnh - Cloudinary}{20}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3} Tài liệu API}{27}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1} API xử lý xác thực và phân quyền}{27}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {a} API xử lý đăng ký}{27}{subsubsection.4.3.1.1}%
+\contentsline {subsubsection}{\numberline {b} API xử lý đăng xuất}{28}{subsubsection.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {c} API xử lý đăng nhập}{28}{subsubsection.4.3.1.3}%
+\contentsline {subsubsection}{\numberline {d} API lấy Access Token mới sử dụng Refresh Token}{29}{subsubsection.4.3.1.4}%
+\contentsline {subsubsection}{\numberline {e} API xử lý lấy và kiểm tra thông tin tài khoản}{29}{subsubsection.4.3.1.5}%
+\contentsline {subsection}{\numberline {4.3.2} API chuyển nhượng}{29}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {a} Sửa chuyển nhượng}{29}{subsubsection.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {b} Tạo chuyển nhượng}{30}{subsubsection.4.3.2.2}%
+\contentsline {subsubsection}{\numberline {c} Xóa chuyển nhượng}{31}{subsubsection.4.3.2.3}%
+\contentsline {subsection}{\numberline {4.3.3} API cầu thủ}{31}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {a} Lấy danh sách cầu thủ có phân trang}{31}{subsubsection.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa cầu thủ}{32}{subsubsection.4.3.3.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo cầu thủ}{33}{subsubsection.4.3.3.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 cầu thủ cụ thể}{34}{subsubsection.4.3.3.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa cầu thủ}{35}{subsubsection.4.3.3.5}%
+\contentsline {subsection}{\numberline {4.3.4} API xử lý trận đấu}{35}{subsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {a} Lấy thông tin tất cả trận đấu có phân trang}{35}{subsubsection.4.3.4.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa trận đấu}{35}{subsubsection.4.3.4.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo trận đấu}{39}{subsubsection.4.3.4.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 trận đấu cụ thể}{43}{subsubsection.4.3.4.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa trận đấu}{46}{subsubsection.4.3.4.5}%
+\contentsline {subsection}{\numberline {4.3.5} API hành động trong trận đấu}{46}{subsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {a} Lấy tất cả các hành động trong trận đấu có phân trang}{46}{subsubsection.4.3.5.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa hành động trận đấu}{47}{subsubsection.4.3.5.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo hành động trong trận đấu}{48}{subsubsection.4.3.5.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 hành động trận đấu cụ thể}{49}{subsubsection.4.3.5.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa hành động trận đấu}{50}{subsubsection.4.3.5.5}%
+\contentsline {subsection}{\numberline {4.3.6} API giải đấu}{50}{subsection.4.3.6}%
+\contentsline {subsubsection}{\numberline {a} Lấy danh sách giải đấu có phân trang}{50}{subsubsection.4.3.6.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa giải đấu}{51}{subsubsection.4.3.6.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo giải đấu}{51}{subsubsection.4.3.6.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 giải đấu cụ thể}{52}{subsubsection.4.3.6.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa giải đấu}{52}{subsubsection.4.3.6.5}%
+\contentsline {subsubsection}{\numberline {f} Lấy danh sách câu lạc bộ thắng nhiều nhất giải đấu}{52}{subsubsection.4.3.6.6}%
+\contentsline {subsection}{\numberline {4.3.7} API mùa giải của giải đấu}{53}{subsection.4.3.7}%
+\contentsline {subsubsection}{\numberline {a} Lấy danh sách mùa giải có phân trang}{53}{subsubsection.4.3.7.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa mùa giải}{53}{subsubsection.4.3.7.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo mùa giải}{56}{subsubsection.4.3.7.3}%
+\contentsline {subsubsection}{\numberline {d} Cập nhật bảng xếp hạng mùa giải}{56}{subsubsection.4.3.7.4}%
+\contentsline {subsubsection}{\numberline {e} Lấy top ghi bàn của CLB trong mùa giải}{58}{subsubsection.4.3.7.5}%
+\contentsline {subsubsection}{\numberline {f} Lấy top kiến tạo của CLB trong mùa giải}{59}{subsubsection.4.3.7.6}%
+\contentsline {subsubsection}{\numberline {g} Lấy 1 mùa giải cụ thể}{59}{subsubsection.4.3.7.7}%
+\contentsline {subsubsection}{\numberline {h} Xóa mùa giải}{61}{subsubsection.4.3.7.8}%
+\contentsline {subsubsection}{\numberline {i} Lấy top thẻ vàng mùa giải}{61}{subsubsection.4.3.7.9}%
+\contentsline {subsubsection}{\numberline {j} Lấy top thẻ đỏ mùa giải}{62}{subsubsection.4.3.7.10}%
+\contentsline {subsubsection}{\numberline {k} Lấy top ghi bàn mùa giải}{62}{subsubsection.4.3.7.11}%
+\contentsline {subsubsection}{\numberline {l} Lấy top kiến tạo mùa giải}{63}{subsubsection.4.3.7.12}%
+\contentsline {subsection}{\numberline {4.3.8} API huấn luyện viên}{63}{subsection.4.3.8}%
+\contentsline {subsubsection}{\numberline {a} Lấy danh sách huấn luyện viên có phân trang}{63}{subsubsection.4.3.8.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa huấn luyện viên}{64}{subsubsection.4.3.8.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo huấn luyện viên}{65}{subsubsection.4.3.8.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 huấn luyện viên cụ thể}{66}{subsubsection.4.3.8.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa huấn luyện viên}{67}{subsubsection.4.3.8.5}%
+\contentsline {subsection}{\numberline {4.3.9} API quản lý huấn luyện viên - câu lạc bộ}{67}{subsection.4.3.9}%
+\contentsline {subsubsection}{\numberline {a} Sửa thông tin huấn luyện viên - câu lạc bộ}{67}{subsubsection.4.3.9.1}%
+\contentsline {subsubsection}{\numberline {b} Tạo thông tin huấn luyện viên - câu lạc bộ}{67}{subsubsection.4.3.9.2}%
+\contentsline {subsubsection}{\numberline {c} Xóa thông tin huấn luyện viên - câu lạc bộ}{68}{subsubsection.4.3.9.3}%
+\contentsline {subsection}{\numberline {4.3.10} API câu lạc bộ}{68}{subsection.4.3.10}%
+\contentsline {subsubsection}{\numberline {a} Lấy danh sách câu lạc bộ có phân trang}{68}{subsubsection.4.3.10.1}%
+\contentsline {subsubsection}{\numberline {b} Sửa câu lạc bộ}{69}{subsubsection.4.3.10.2}%
+\contentsline {subsubsection}{\numberline {c} Tạo câu lạc bộ}{69}{subsubsection.4.3.10.3}%
+\contentsline {subsubsection}{\numberline {d} Lấy 1 câu lạc bộ cụ thể}{70}{subsubsection.4.3.10.4}%
+\contentsline {subsubsection}{\numberline {e} Xóa câu lạc bộ}{71}{subsubsection.4.3.10.5}%
+\contentsline {subsubsection}{\numberline {f} Lấy danh sách chuyển nhượng của câu lạc bộ}{71}{subsubsection.4.3.10.6}%
+\contentsline {subsubsection}{\numberline {g} Lấy danh sách cầu thủ của câu lạc bộ}{72}{subsubsection.4.3.10.7}%
+\contentsline {subsubsection}{\numberline {h} Lấy danh sách mùa giải của câu lạc bộ}{73}{subsubsection.4.3.10.8}%
+\contentsline {subsection}{\numberline {4.3.11} API bảng xếp hạng câu lạc bộ theo mùa giải}{73}{subsection.4.3.11}%
+\contentsline {subsubsection}{\numberline {a} Sửa bảng xếp hạng câu lạc bộ theo mùa giải}{73}{subsubsection.4.3.11.1}%
+\contentsline {subsubsection}{\numberline {b} Tạo bảng xếp hạng câu lạc bộ theo mùa giải}{74}{subsubsection.4.3.11.2}%
+\contentsline {subsubsection}{\numberline {c} Xóa bảng xếp hạng câu lạc bộ theo mùa giải}{75}{subsubsection.4.3.11.3}%
+\contentsline {subsection}{\numberline {4.3.12} API upload file}{75}{subsection.4.3.12}%
+\contentsline {subsubsection}{\numberline {a} Upload file}{75}{subsubsection.4.3.12.1}%
+\contentsline {section}{\numberline {4.4} Giao diện User}{76}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1} Giao diện xác thực và phân quyền}{76}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {a}Giao diện đăng ký}{76}{subsubsection.4.4.1.1}%
+\contentsline {subsubsection}{\numberline {b}Giao diện đăng nhập}{76}{subsubsection.4.4.1.2}%
+\contentsline {subsubsection}{\numberline {c}Giao diện trang chủ}{76}{subsubsection.4.4.1.3}%
+\contentsline {subsection}{\numberline {4.4.2} Giao diện cầu thủ}{76}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {a}Giao diện danh sách cầu thủ}{76}{subsubsection.4.4.2.1}%
+\contentsline {subsubsection}{\numberline {b}Giao diện lọc cầu thủ}{76}{subsubsection.4.4.2.2}%
+\contentsline {subsubsection}{\numberline {c}Giao diện chi tiết cầu thủ}{79}{subsubsection.4.4.2.3}%
+\contentsline {subsubsection}{\numberline {d}Giao diện tìm kiếm cầu thủ}{79}{subsubsection.4.4.2.4}%
+\contentsline {subsection}{\numberline {4.4.3} Giao diện câu lạc bộ}{79}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {a}Giao diện danh sách câu lạc bộ}{79}{subsubsection.4.4.3.1}%
+\contentsline {subsubsection}{\numberline {b}Giao diện tìm kiếm câu lạc bộ}{79}{subsubsection.4.4.3.2}%
+\contentsline {subsubsection}{\numberline {c}Giao diện lọc câu lạc bộ}{79}{subsubsection.4.4.3.3}%
+\contentsline {subsubsection}{\numberline {d}Giao diện chi tiết danh sách cầu thủ trong mùa giải của câu lạc bộ}{79}{subsubsection.4.4.3.4}%
+\contentsline {subsubsection}{\numberline {e}Giao diện chi tiết danh sách chuyển nhượng trong mùa giải của câu lạc bộ}{79}{subsubsection.4.4.3.5}%
+\contentsline {subsubsection}{\numberline {f}Giao diện chi tiết thống kê trong mùa giải của câu lạc bộ}{83}{subsubsection.4.4.3.6}%
+\contentsline {subsubsection}{\numberline {g}Giao diện chi tiết thứ hạng câu lạc bộ trong mùa giải}{83}{subsubsection.4.4.3.7}%
+\contentsline {subsection}{\numberline {4.4.4} Giao diện huấn luyện viên}{83}{subsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {a}Giao diện danh sách huấn luyện viên}{83}{subsubsection.4.4.4.1}%
+\contentsline {subsubsection}{\numberline {b}Giao diện tìm kiếm huấn luyện viên}{83}{subsubsection.4.4.4.2}%
+\contentsline {subsubsection}{\numberline {c}Giao diện lọc huấn luyện viên}{83}{subsubsection.4.4.4.3}%
+\contentsline {subsubsection}{\numberline {d}Giao diện chi tiết huấn luyện viên}{83}{subsubsection.4.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5} Giao diện giải đấu}{83}{subsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {a}Giao diện danh sách giải đấu}{83}{subsubsection.4.4.5.1}%
+\contentsline {subsubsection}{\numberline {b}Giao diện tìm kiếm giải đấu}{83}{subsubsection.4.4.5.2}%
+\contentsline {subsubsection}{\numberline {c} Giao diện chi tiết giải đấu}{87}{subsubsection.4.4.5.3}%
+\contentsline {section}{\numberline {4.5} Giao diện Admin}{87}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Giao diện tìm kiếm trang chủ}{87}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Giao diện hiển thị cầu thủ}{87}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Giao diện tìm kiếm cầu thủ}{87}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Giao diện thêm mới cầu thủ}{87}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}Giao diện chỉnh sửa thông tin cầu thủ}{87}{subsection.4.5.5}%
+\contentsline {subsection}{\numberline {4.5.6}Giao diện chi tiết cầu thủ}{93}{subsection.4.5.6}%
+\contentsline {subsection}{\numberline {4.5.7}Giao diện thêm mới lịch sử chuyển nhượng}{93}{subsection.4.5.7}%
+\contentsline {subsection}{\numberline {4.5.8}Giao diện chỉnh sửa lịch sử chuyển nhượng}{93}{subsection.4.5.8}%
+\contentsline {subsection}{\numberline {4.5.9}Giao diện quản lý danh sách câu lạc bộ}{93}{subsection.4.5.9}%
+\contentsline {subsection}{\numberline {4.5.10}Giao diện tìm kiếm câu lạc bộ theo từ khoá}{93}{subsection.4.5.10}%
+\contentsline {subsection}{\numberline {4.5.11}Giao diện thêm mới câu lạc bộ}{93}{subsection.4.5.11}%
+\contentsline {subsection}{\numberline {4.5.12}Giao diện chỉnh sửa thông tin câu lạc bộ}{93}{subsection.4.5.12}%
+\contentsline {subsection}{\numberline {4.5.13}Giao diện chi tiết thông tin câu lạc bộ}{98}{subsection.4.5.13}%
+\contentsline {subsection}{\numberline {4.5.14}Giao diện quản lý danh sách huấn luyện viên}{98}{subsection.4.5.14}%
+\contentsline {subsection}{\numberline {4.5.15}Giao diện tìm kiếm huấn luyện viên theo từ khoá}{98}{subsection.4.5.15}%
+\contentsline {subsection}{\numberline {4.5.16}Giao diện thêm mới huấn luyện viên}{98}{subsection.4.5.16}%
+\contentsline {subsection}{\numberline {4.5.17}Giao diện chỉnh sửa thông tin huấn luyện viên}{101}{subsection.4.5.17}%
+\contentsline {subsection}{\numberline {4.5.18}Giao diện chi tiết thông tin huấn luyện viên}{101}{subsection.4.5.18}%
+\contentsline {subsection}{\numberline {4.5.19}Giao diện thêm mới lịch sử CLB}{101}{subsection.4.5.19}%
+\contentsline {subsection}{\numberline {4.5.20}Giao diện chỉnh sửa lịch sử CLB}{101}{subsection.4.5.20}%
+\contentsline {subsection}{\numberline {4.5.21}Giao diện bảng xếp hạng giải đấu}{101}{subsection.4.5.21}%
+\contentsline {subsection}{\numberline {4.5.22}Giao diện thêm mới giải đấu}{101}{subsection.4.5.22}%
+\contentsline {subsection}{\numberline {4.5.23}Giao diện chỉnh sửa giải đấu}{101}{subsection.4.5.23}%
+\contentsline {subsection}{\numberline {4.5.24}Giao diện chi tiết giải đấu}{105}{subsection.4.5.24}%
+\contentsline {subsection}{\numberline {4.5.25}Giao diện thêm mới mùa giải}{105}{subsection.4.5.25}%
+\contentsline {subsection}{\numberline {4.5.26}Giao diện chỉnh sửa mùa giải}{105}{subsection.4.5.26}%
+\contentsline {subsection}{\numberline {4.5.27}Giao diện thêm CLB vào mùa giải}{105}{subsection.4.5.27}%
+\contentsline {subsection}{\numberline {4.5.28}Giao diện chỉnh sửa thống kê CLB theo mùa}{105}{subsection.4.5.28}%
+\contentsline {subsection}{\numberline {4.5.29}Giao diện danh sách trận đấu trong mùa giải}{105}{subsection.4.5.29}%
+\contentsline {subsection}{\numberline {4.5.30}Giao diện quản lý danh sách trận đấu}{106}{subsection.4.5.30}%
+\contentsline {subsection}{\numberline {4.5.31}Giao diện chỉnh sửa trận đấu}{106}{subsection.4.5.31}%
+\contentsline {subsection}{\numberline {4.5.32}Giao diện chi tiết trận đấu}{106}{subsection.4.5.32}%
+\contentsline {subsection}{\numberline {4.5.33}Giao diện thêm mới hành động trong trận}{106}{subsection.4.5.33}%
+\contentsline {subsection}{\numberline {4.5.34}Giao diện chỉnh sửa hành động trong trận}{106}{subsection.4.5.34}%
+\contentsline {section}{\numberline {4.6} Ứng dụng bảo mật cho Website}{106}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}JWT}{106}{subsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {a} Lý thuyết}{112}{subsubsection.4.6.1.1}%
+\contentsline {subsubsection}{\numberline {b} Cài đặt}{113}{subsubsection.4.6.1.2}%
+\contentsline {section}{\numberline {4.7} Hướng đẫn triển khai trên Render}{114}{section.4.7}%
+\contentsline {chapter}{\numberline {5}KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{117}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kết luận}{117}{section.5.1}%
+\contentsline {section}{\numberline {5.2} Hướng phát triển}{117}{section.5.2}%
+\contentsline {chapter}{TÀI LIỆU THAM KHẢO}{118}{section*.92}%
+\ttl@change@i {\@ne }{chapter}{0.0cm}{\bfseries \vspace {0.3cm}}{{\bfseries {\scshape } \thecontentslabel .\ }}{}{\titlerule *[0.3pc]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 06:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 06:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1454,13 +1454,12 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout4 = `BTL-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'BTL.bbl' not found.
-
-No file BTL.bbl.
+Package biblatex Info: ... file 'BTL.bbl' found.
+ (BTL.bbl)
 Package biblatex Info: Reference section=0 on input line 217.
 Package biblatex Info: Reference segment=0 on input line 217.
 Package hyperref Info: Link coloring OFF on input line 217.
-(BTL.out) (BTL.out)
+ (BTL.out) (BTL.out)
 \@outlinefile=\write5
 \openout5 = `BTL.out'.
 
@@ -1500,7 +1499,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
 (C:\Users\duongvct\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Hinhve/ptit_logo_1.png, id=403, 356.0803pt x 441.90094pt>
+<Hinhve/ptit_logo_1.png, id=407, 356.0803pt x 441.90094pt>
 File: Hinhve/ptit_logo_1.png Graphic file (type png)
 <use Hinhve/ptit_logo_1.png>
 Package pdftex.def Info: Hinhve/ptit_logo_1.png  used on input line 17.
@@ -1560,16 +1559,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[3])
-\tf@toc=\write6
-\openout6 = `BTL.toc'.
-
-
+[3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[4]
+[4])
+\tf@toc=\write6
+\openout6 = `BTL.toc'.
+
+
 
 [5]
 
@@ -1649,12 +1648,12 @@ Package fancyhdr Warning: \headheight is too small (10.0pt):
 [2]
 Ch\uhorn \ohorn ng 2.
 (Chuong/2_Khao_sat.tex
-<Hinhve/BFD_LTW.png, id=849, 442.65375pt x 492.84125pt>
+<Hinhve/BFD_LTW.png, id=855, 442.65375pt x 492.84125pt>
 File: Hinhve/BFD_LTW.png Graphic file (type png)
 <use Hinhve/BFD_LTW.png>
 Package pdftex.def Info: Hinhve/BFD_LTW.png  used on input line 9.
 (pdftex.def)             Requested size: 341.43437pt x 380.16573pt.
-<Hinhve/DFDV2_LTW.png, id=851, 731.73375pt x 784.9325pt>
+<Hinhve/DFDV2_LTW.png, id=857, 731.73375pt x 784.9325pt>
 File: Hinhve/DFDV2_LTW.png Graphic file (type png)
 <use Hinhve/DFDV2_LTW.png>
 Package pdftex.def Info: Hinhve/DFDV2_LTW.png  used on input line 18.
@@ -1744,37 +1743,16 @@ Package fancyhdr Warning: \headheight is too small (10.0pt):
 [10]
 Ch\uhorn \ohorn ng 3.
 (Chuong/3_Cong_nghe.tex
-<Hinhve/relation-schema.jpg, id=901, 2319.66624pt x 1305.87875pt>
+<Hinhve/relation-schema.jpg, id=907, 2319.66624pt x 1305.87875pt>
 File: Hinhve/relation-schema.jpg Graphic file (type jpg)
 <use Hinhve/relation-schema.jpg>
 Package pdftex.def Info: Hinhve/relation-schema.jpg  used on input line 29.
 (pdftex.def)             Requested size: 426.79135pt x 240.24873pt.
-<Hinhve/EER.png, id=902, 796.9775pt x 1147.28625pt>
+<Hinhve/EER.png, id=908, 796.9775pt x 1147.28625pt>
 File: Hinhve/EER.png Graphic file (type png)
 <use Hinhve/EER.png>
 Package pdftex.def Info: Hinhve/EER.png  used on input line 36.
 (pdftex.def)             Requested size: 426.79135pt x 614.37854pt.
-
-
-LaTeX Warning: Citation 'react-docs' on page 11 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'antd-docs' on page 11 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'hoidanit-restful' on page 11 undefined on input line 4
-2.
-
-
-LaTeX Warning: Citation 'vanthoi-github' on page 11 undefined on input line 42.
-
-
-
-Overfull \hbox (6.54977pt too wide) in paragraph at lines 42--44
-\T5/ptm/m/n/13 Client-Server vîi mæ h¼nh Sin-gle Page Ap-pli-ca-tion (SPA) ð ph
-½a fron-tend []
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1783,14 +1761,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [11
 
 ]
-<Hinhve/web-overall-architecture.jpg, id=908, 643.40375pt x 502.87875pt>
+<Hinhve/web-overall-architecture.jpg, id=918, 643.40375pt x 502.87875pt>
 File: Hinhve/web-overall-architecture.jpg Graphic file (type jpg)
 <use Hinhve/web-overall-architecture.jpg>
 Package pdftex.def Info: Hinhve/web-overall-architecture.jpg  used on input lin
 e 52.
 (pdftex.def)             Requested size: 426.79135pt x 333.58913pt.
 
-Underfull \vbox (badness 1102) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1852,12 +1830,12 @@ LaTeX Font Info:    Trying to load font information for T5+pcr on input line 11
 (C:\Users\duongvct\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5pcr.fd
 File: t5ucr.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pcr.
 )
-<Hinhve/aiven-mysql-config.png, id=940, 1429.34pt x 832.10875pt>
+<Hinhve/aiven-mysql-config.png, id=954, 1429.34pt x 832.10875pt>
 File: Hinhve/aiven-mysql-config.png Graphic file (type png)
 <use Hinhve/aiven-mysql-config.png>
 Package pdftex.def Info: Hinhve/aiven-mysql-config.png  used on input line 19.
 (pdftex.def)             Requested size: 426.79135pt x 248.45374pt.
-<Hinhve/mvn-clean-package.png, id=942, 1927.2pt x 1084.05pt>
+<Hinhve/mvn-clean-package.png, id=956, 1927.2pt x 1084.05pt>
 File: Hinhve/mvn-clean-package.png Graphic file (type png)
 <use Hinhve/mvn-clean-package.png>
 Package pdftex.def Info: Hinhve/mvn-clean-package.png  used on input line 29.
@@ -1887,4 +1865,1605 @@ Package fancyhdr Warning: \headheight is too small (10.0pt):
 (fancyhdr)                Make it at least 17.47202pt, for example:
 (fancyhdr)                \setlength{\headheight}{17.47202pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtol
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[18 <./Hinhve/aiven-mysql-config.png> <./Hinhve/mvn-clean-package.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[19]
+<Hinhve/docker-build-be1.png, id=981, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-build-be1.png Graphic file (type png)
+<use Hinhve/docker-build-be1.png>
+Package pdftex.def Info: Hinhve/docker-build-be1.png  used on input line 86.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-build-be2.png, id=982, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-build-be2.png Graphic file (type png)
+<use Hinhve/docker-build-be2.png>
+Package pdftex.def Info: Hinhve/docker-build-be2.png  used on input line 92.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-build-fe1.png, id=983, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-build-fe1.png Graphic file (type png)
+<use Hinhve/docker-build-fe1.png>
+Package pdftex.def Info: Hinhve/docker-build-fe1.png  used on input line 98.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-build-fe2.png, id=984, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-build-fe2.png Graphic file (type png)
+<use Hinhve/docker-build-fe2.png>
+Package pdftex.def Info: Hinhve/docker-build-fe2.png  used on input line 104.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-build-fe3.png, id=985, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-build-fe3.png Graphic file (type png)
+<use Hinhve/docker-build-fe3.png>
+Package pdftex.def Info: Hinhve/docker-build-fe3.png  used on input line 110.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-container-run-be1.png, id=986, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-container-run-be1.png Graphic file (type png)
+<use Hinhve/docker-container-run-be1.png>
+Package pdftex.def Info: Hinhve/docker-container-run-be1.png  used on input lin
+e 116.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-container-run-be2.png, id=987, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-container-run-be2.png Graphic file (type png)
+<use Hinhve/docker-container-run-be2.png>
+Package pdftex.def Info: Hinhve/docker-container-run-be2.png  used on input lin
+e 122.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-container-run-fe.png, id=988, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-container-run-fe.png Graphic file (type png)
+<use Hinhve/docker-container-run-fe.png>
+Package pdftex.def Info: Hinhve/docker-container-run-fe.png  used on input line
+ 128.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-push-be.png, id=989, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-push-be.png Graphic file (type png)
+<use Hinhve/docker-push-be.png>
+Package pdftex.def Info: Hinhve/docker-push-be.png  used on input line 134.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/docker-push-fe.png, id=990, 1927.2pt x 1084.05pt>
+File: Hinhve/docker-push-fe.png Graphic file (type png)
+<use Hinhve/docker-push-fe.png>
+Package pdftex.def Info: Hinhve/docker-push-fe.png  used on input line 140.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/cloudinary-setting.png, id=995, 1927.2pt x 1084.05pt>
+File: Hinhve/cloudinary-setting.png Graphic file (type png)
+<use Hinhve/cloudinary-setting.png>
+Package pdftex.def Info: Hinhve/cloudinary-setting.png  used on input line 153.
+
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/cloudinary-email-code.png, id=996, 1434.35875pt x 692.5875pt>
+File: Hinhve/cloudinary-email-code.png Graphic file (type png)
+<use Hinhve/cloudinary-email-code.png>
+Package pdftex.def Info: Hinhve/cloudinary-email-code.png  used on input line 1
+59.
+(pdftex.def)             Requested size: 426.79135pt x 206.0764pt.
+<Hinhve/cloudinary-email-verification.png, id=997, 1927.2pt x 1084.05pt>
+File: Hinhve/cloudinary-email-verification.png Graphic file (type png)
+<use Hinhve/cloudinary-email-verification.png>
+Package pdftex.def Info: Hinhve/cloudinary-email-verification.png  used on inpu
+t line 165.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/cloudinary-api-key.png, id=998, 1927.2pt x 1084.05pt>
+File: Hinhve/cloudinary-api-key.png Graphic file (type png)
+<use Hinhve/cloudinary-api-key.png>
+Package pdftex.def Info: Hinhve/cloudinary-api-key.png  used on input line 171.
+
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[20 <./Hinhve/docker-build-be1.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[21 <./Hinhve/docker-build-be2.png> <./Hinhve/docker-build-fe1.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[22 <./Hinhve/docker-build-fe2.png> <./Hinhve/docker-build-fe3.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[23 <./Hinhve/docker-container-run-be1.png> <./Hinhve/docker-container-run-be2.
+png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[24 <./Hinhve/docker-container-run-fe.png> <./Hinhve/docker-push-be.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[25 <./Hinhve/docker-push-fe.png> <./Hinhve/cloudinary-setting.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[26 <./Hinhve/cloudinary-email-code.png> <./Hinhve/cloudinary-email-verificatio
+n.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[27 <./Hinhve/cloudinary-api-key.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[61]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[68]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[74]
+<Hinhve/user-register.png, id=1288, 1927.2pt x 1084.05pt>
+File: Hinhve/user-register.png Graphic file (type png)
+<use Hinhve/user-register.png>
+Package pdftex.def Info: Hinhve/user-register.png  used on input line 2130.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[75]
+<Hinhve/user-login.png, id=1296, 1927.2pt x 1084.05pt>
+File: Hinhve/user-login.png Graphic file (type png)
+<use Hinhve/user-login.png>
+Package pdftex.def Info: Hinhve/user-login.png  used on input line 2139.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-home.png, id=1298, 1927.2pt x 1084.05pt>
+File: Hinhve/user-home.png Graphic file (type png)
+<use Hinhve/user-home.png>
+Package pdftex.def Info: Hinhve/user-home.png  used on input line 2148.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-player-list.png, id=1300, 1927.2pt x 1084.05pt>
+File: Hinhve/user-player-list.png Graphic file (type png)
+<use Hinhve/user-player-list.png>
+Package pdftex.def Info: Hinhve/user-player-list.png  used on input line 2157.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-player-filter.png, id=1302, 1927.2pt x 1084.05pt>
+File: Hinhve/user-player-filter.png Graphic file (type png)
+<use Hinhve/user-player-filter.png>
+Package pdftex.def Info: Hinhve/user-player-filter.png  used on input line 2166
+.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-player-detail.png, id=1304, 1927.2pt x 1084.05pt>
+File: Hinhve/user-player-detail.png Graphic file (type png)
+<use Hinhve/user-player-detail.png>
+Package pdftex.def Info: Hinhve/user-player-detail.png  used on input line 2175
+.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[76 <./Hinhve/user-register.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[77 <./Hinhve/user-login.png> <./Hinhve/user-home.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[78 <./Hinhve/user-player-list.png> <./Hinhve/user-player-filter.png>]
+<Hinhve/user-player-search.png, id=1324, 1927.2pt x 1084.05pt>
+File: Hinhve/user-player-search.png Graphic file (type png)
+<use Hinhve/user-player-search.png>
+Package pdftex.def Info: Hinhve/user-player-search.png  used on input line 2184
+.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-list.png, id=1326, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-list.png Graphic file (type png)
+<use Hinhve/user-club-list.png>
+Package pdftex.def Info: Hinhve/user-club-list.png  used on input line 2193.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-search.png, id=1328, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-search.png Graphic file (type png)
+<use Hinhve/user-club-search.png>
+Package pdftex.def Info: Hinhve/user-club-search.png  used on input line 2201.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-filter.png, id=1330, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-filter.png Graphic file (type png)
+<use Hinhve/user-club-filter.png>
+Package pdftex.def Info: Hinhve/user-club-filter.png  used on input line 2210.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-detail-squad.png, id=1332, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-detail-squad.png Graphic file (type png)
+<use Hinhve/user-club-detail-squad.png>
+Package pdftex.def Info: Hinhve/user-club-detail-squad.png  used on input line 
+2219.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-detail-transfer.png, id=1334, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-detail-transfer.png Graphic file (type png)
+<use Hinhve/user-club-detail-transfer.png>
+Package pdftex.def Info: Hinhve/user-club-detail-transfer.png  used on input li
+ne 2228.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-club-detail-statistic.png, id=1336, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-detail-statistic.png Graphic file (type png)
+<use Hinhve/user-club-detail-statistic.png>
+Package pdftex.def Info: Hinhve/user-club-detail-statistic.png  used on input l
+ine 2237.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[79 <./Hinhve/user-player-detail.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[80 <./Hinhve/user-player-search.png> <./Hinhve/user-club-list.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[81 <./Hinhve/user-club-search.png> <./Hinhve/user-club-filter.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[82 <./Hinhve/user-club-detail-squad.png> <./Hinhve/user-club-detail-transfer.p
+ng>]
+<Hinhve/user-club-detail-league-table.png, id=1361, 1927.2pt x 1084.05pt>
+File: Hinhve/user-club-detail-league-table.png Graphic file (type png)
+<use Hinhve/user-club-detail-league-table.png>
+Package pdftex.def Info: Hinhve/user-club-detail-league-table.png  used on inpu
+t line 2246.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-coach-list.png, id=1363, 1927.2pt x 1084.05pt>
+File: Hinhve/user-coach-list.png Graphic file (type png)
+<use Hinhve/user-coach-list.png>
+Package pdftex.def Info: Hinhve/user-coach-list.png  used on input line 2256.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-coach-search.png, id=1365, 1927.2pt x 1084.05pt>
+File: Hinhve/user-coach-search.png Graphic file (type png)
+<use Hinhve/user-coach-search.png>
+Package pdftex.def Info: Hinhve/user-coach-search.png  used on input line 2266.
+
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-coach-filter.png, id=1367, 1927.2pt x 1084.05pt>
+File: Hinhve/user-coach-filter.png Graphic file (type png)
+<use Hinhve/user-coach-filter.png>
+Package pdftex.def Info: Hinhve/user-coach-filter.png  used on input line 2276.
+
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-coach-detail.png, id=1369, 1927.2pt x 1084.05pt>
+File: Hinhve/user-coach-detail.png Graphic file (type png)
+<use Hinhve/user-coach-detail.png>
+Package pdftex.def Info: Hinhve/user-coach-detail.png  used on input line 2285.
+
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-list.png, id=1371, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-list.png Graphic file (type png)
+<use Hinhve/user-league-list.png>
+Package pdftex.def Info: Hinhve/user-league-list.png  used on input line 2294.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-search.png, id=1373, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-search.png Graphic file (type png)
+<use Hinhve/user-league-search.png>
+Package pdftex.def Info: Hinhve/user-league-search.png  used on input line 2303
+.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-season1.png, id=1378, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-season1.png Graphic file (type png)
+<use Hinhve/user-league-season1.png>
+Package pdftex.def Info: Hinhve/user-league-season1.png  used on input line 231
+1.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-season2.png, id=1379, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-season2.png Graphic file (type png)
+<use Hinhve/user-league-season2.png>
+Package pdftex.def Info: Hinhve/user-league-season2.png  used on input line 231
+7.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-season3.png, id=1380, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-season3.png Graphic file (type png)
+<use Hinhve/user-league-season3.png>
+Package pdftex.def Info: Hinhve/user-league-season3.png  used on input line 232
+3.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/user-league-season4.png, id=1381, 1927.2pt x 1084.05pt>
+File: Hinhve/user-league-season4.png Graphic file (type png)
+<use Hinhve/user-league-season4.png>
+Package pdftex.def Info: Hinhve/user-league-season4.png  used on input line 232
+9.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[83 <./Hinhve/user-club-detail-statistic.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[84 <./Hinhve/user-club-detail-league-table.png> <./Hinhve/user-coach-list.png>
+]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[85 <./Hinhve/user-coach-search.png> <./Hinhve/user-coach-filter.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[86 <./Hinhve/user-coach-detail.png> <./Hinhve/user-league-list.png>]
+<Hinhve/search_home.png, id=1407, 1152.10425pt x 528.17325pt>
+File: Hinhve/search_home.png Graphic file (type png)
+<use Hinhve/search_home.png>
+Package pdftex.def Info: Hinhve/search_home.png  used on input line 2337.
+(pdftex.def)             Requested size: 426.79135pt x 195.65475pt.
+<Hinhve/admin_players.png, id=1409, 1153.911pt x 537.207pt>
+File: Hinhve/admin_players.png Graphic file (type png)
+<use Hinhve/admin_players.png>
+Package pdftex.def Info: Hinhve/admin_players.png  used on input line 2346.
+(pdftex.def)             Requested size: 426.79135pt x 198.6897pt.
+<Hinhve/admin_search_player.png, id=1411, 1143.0705pt x 534.19576pt>
+File: Hinhve/admin_search_player.png Graphic file (type png)
+<use Hinhve/admin_search_player.png>
+Package pdftex.def Info: Hinhve/admin_search_player.png  used on input line 235
+5.
+(pdftex.def)             Requested size: 426.79135pt x 199.45074pt.
+<Hinhve/admin_add_player.png, id=1413, 455.301pt x 528.7755pt>
+File: Hinhve/admin_add_player.png Graphic file (type png)
+<use Hinhve/admin_add_player.png>
+Package pdftex.def Info: Hinhve/admin_add_player.png  used on input line 2364.
+(pdftex.def)             Requested size: 426.79135pt x 495.67741pt.
+<Hinhve/admin_edit_player.png, id=1415, 449.88075pt x 558.28575pt>
+File: Hinhve/admin_edit_player.png Graphic file (type png)
+<use Hinhve/admin_edit_player.png>
+Package pdftex.def Info: Hinhve/admin_edit_player.png  used on input line 2373.
+
+(pdftex.def)             Requested size: 426.79135pt x 529.63583pt.
+<Hinhve/admin_player_detail.png, id=1417, 1141.26375pt x 507.0945pt>
+File: Hinhve/admin_player_detail.png Graphic file (type png)
+<use Hinhve/admin_player_detail.png>
+Package pdftex.def Info: Hinhve/admin_player_detail.png  used on input line 238
+2.
+(pdftex.def)             Requested size: 426.79135pt x 189.6338pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[87 <./Hinhve/user-league-search.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[88 <./Hinhve/user-league-season1.png> <./Hinhve/user-league-season2.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[89 <./Hinhve/user-league-season3.png> <./Hinhve/user-league-season4.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[90 <./Hinhve/search_home.png> <./Hinhve/admin_players.png> <./Hinhve/admin_sea
+rch_player.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[91 <./Hinhve/admin_add_player.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[92 <./Hinhve/admin_edit_player.png>]
+<Hinhve/admin_add_transfer.png, id=1450, 449.88075pt x 401.70074pt>
+File: Hinhve/admin_add_transfer.png Graphic file (type png)
+<use Hinhve/admin_add_transfer.png>
+Package pdftex.def Info: Hinhve/admin_add_transfer.png  used on input line 2391
+.
+(pdftex.def)             Requested size: 426.79135pt x 381.0864pt.
+<Hinhve/admin_edit_transfer.png, id=1452, 451.6875pt x 328.8285pt>
+File: Hinhve/admin_edit_transfer.png Graphic file (type png)
+<use Hinhve/admin_edit_transfer.png>
+Package pdftex.def Info: Hinhve/admin_edit_transfer.png  used on input line 240
+0.
+(pdftex.def)             Requested size: 426.79135pt x 310.7245pt.
+<Hinhve/admin_clubs.png, id=1454, 1079.232pt x 482.40225pt>
+File: Hinhve/admin_clubs.png Graphic file (type png)
+<use Hinhve/admin_clubs.png>
+Package pdftex.def Info: Hinhve/admin_clubs.png  used on input line 2409.
+(pdftex.def)             Requested size: 426.79135pt x 190.7713pt.
+<Hinhve/admin_search_club.png, id=1456, 1100.31075pt x 369.17924pt>
+File: Hinhve/admin_search_club.png Graphic file (type png)
+<use Hinhve/admin_search_club.png>
+Package pdftex.def Info: Hinhve/admin_search_club.png  used on input line 2418.
+
+(pdftex.def)             Requested size: 426.79135pt x 143.1963pt.
+<Hinhve/admin_add_club.png, id=1458, 446.8695pt x 335.45325pt>
+File: Hinhve/admin_add_club.png Graphic file (type png)
+<use Hinhve/admin_add_club.png>
+Package pdftex.def Info: Hinhve/admin_add_club.png  used on input line 2427.
+(pdftex.def)             Requested size: 426.79135pt x 320.3986pt.
+<Hinhve/admin_edit_club.png, id=1460, 449.2785pt x 495.0495pt>
+File: Hinhve/admin_edit_club.png Graphic file (type png)
+<use Hinhve/admin_edit_club.png>
+Package pdftex.def Info: Hinhve/admin_edit_club.png  used on input line 2436.
+(pdftex.def)             Requested size: 426.79135pt x 470.29434pt.
+<Hinhve/admin_club_detail_v2.png, id=1462, 1156.32pt x 423.38174pt>
+File: Hinhve/admin_club_detail_v2.png Graphic file (type png)
+<use Hinhve/admin_club_detail_v2.png>
+Package pdftex.def Info: Hinhve/admin_club_detail_v2.png  used on input line 24
+45.
+(pdftex.def)             Requested size: 426.79135pt x 156.26762pt.
+
+Underfull \vbox (badness 8019) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[93 <./Hinhve/admin_player_detail.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[94 <./Hinhve/admin_add_transfer.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[95 <./Hinhve/admin_edit_transfer.png> <./Hinhve/admin_clubs.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[96 <./Hinhve/admin_search_club.png> <./Hinhve/admin_add_club.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[97 <./Hinhve/admin_edit_club.png>]
+<Hinhve/admin_coaches.png, id=1492, 1138.85475pt x 513.71925pt>
+File: Hinhve/admin_coaches.png Graphic file (type png)
+<use Hinhve/admin_coaches.png>
+Package pdftex.def Info: Hinhve/admin_coaches.png  used on input line 2454.
+(pdftex.def)             Requested size: 426.79135pt x 192.51881pt.
+<Hinhve/admin_search_coach.png, id=1494, 1128.01425pt x 375.20175pt>
+File: Hinhve/admin_search_coach.png Graphic file (type png)
+<use Hinhve/admin_search_coach.png>
+Package pdftex.def Info: Hinhve/admin_search_coach.png  used on input line 2463
+.
+(pdftex.def)             Requested size: 426.79135pt x 141.95982pt.
+<Hinhve/admin_add_coach.png, id=1496, 450.483pt x 332.442pt>
+File: Hinhve/admin_add_coach.png Graphic file (type png)
+<use Hinhve/admin_add_coach.png>
+Package pdftex.def Info: Hinhve/admin_add_coach.png  used on input line 2472.
+(pdftex.def)             Requested size: 426.79135pt x 314.9659pt.
+<Hinhve/admin_edit_coach.png, id=1498, 451.6875pt x 492.6405pt>
+File: Hinhve/admin_edit_coach.png Graphic file (type png)
+<use Hinhve/admin_edit_coach.png>
+Package pdftex.def Info: Hinhve/admin_edit_coach.png  used on input line 2481.
+(pdftex.def)             Requested size: 426.79135pt x 465.51767pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[98 <./Hinhve/admin_club_detail_v2.png> <./Hinhve/admin_coaches.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[99 <./Hinhve/admin_search_coach.png> <./Hinhve/admin_add_coach.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[100 <./Hinhve/admin_edit_coach.png>]
+<Hinhve/admin_coach_detail.png, id=1517, 1156.32pt x 495.0495pt>
+File: Hinhve/admin_coach_detail.png Graphic file (type png)
+<use Hinhve/admin_coach_detail.png>
+Package pdftex.def Info: Hinhve/admin_coach_detail.png  used on input line 2490
+.
+(pdftex.def)             Requested size: 426.79135pt x 182.71976pt.
+<Hinhve/admin_add_club_history.png, id=1519, 446.8695pt x 268.6035pt>
+File: Hinhve/admin_add_club_history.png Graphic file (type png)
+<use Hinhve/admin_add_club_history.png>
+Package pdftex.def Info: Hinhve/admin_add_club_history.png  used on input line 
+2500.
+(pdftex.def)             Requested size: 426.79135pt x 256.549pt.
+<Hinhve/admin_edit_club_history.png, id=1521, 448.67625pt x 265.59225pt>
+File: Hinhve/admin_edit_club_history.png Graphic file (type png)
+<use Hinhve/admin_edit_club_history.png>
+Package pdftex.def Info: Hinhve/admin_edit_club_history.png  used on input line
+ 2509.
+(pdftex.def)             Requested size: 426.79135pt x 252.64755pt.
+<Hinhve/admin_league_table.png, id=1523, 1134.03674pt x 416.757pt>
+File: Hinhve/admin_league_table.png Graphic file (type png)
+<use Hinhve/admin_league_table.png>
+Package pdftex.def Info: Hinhve/admin_league_table.png  used on input line 2518
+.
+(pdftex.def)             Requested size: 426.79135pt x 156.8431pt.
+<Hinhve/admin_add_league.png, id=1525, 451.6875pt x 202.356pt>
+File: Hinhve/admin_add_league.png Graphic file (type png)
+<use Hinhve/admin_add_league.png>
+Package pdftex.def Info: Hinhve/admin_add_league.png  used on input line 2527.
+(pdftex.def)             Requested size: 426.79135pt x 191.21507pt.
+<Hinhve/admin_edit_leauge.png, id=1527, 449.88075pt x 316.7835pt>
+File: Hinhve/admin_edit_leauge.png Graphic file (type png)
+<use Hinhve/admin_edit_leauge.png>
+Package pdftex.def Info: Hinhve/admin_edit_leauge.png  used on input line 2536.
+
+(pdftex.def)             Requested size: 426.79135pt x 300.5269pt.
+<Hinhve/admin_league_detail.png, id=1529, 1145.4795pt x 462.528pt>
+File: Hinhve/admin_league_detail.png Graphic file (type png)
+<use Hinhve/admin_league_detail.png>
+Package pdftex.def Info: Hinhve/admin_league_detail.png  used on input line 254
+5.
+(pdftex.def)             Requested size: 426.79135pt x 172.33246pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[101 <./Hinhve/admin_coach_detail.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[102 <./Hinhve/admin_add_club_history.png> <./Hinhve/admin_edit_club_history.pn
+g>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[103 <./Hinhve/admin_league_table.png> <./Hinhve/admin_add_league.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[104 <./Hinhve/admin_edit_leauge.png> <./Hinhve/admin_league_detail.png>]
+<Hinhve/admin_add_season.png, id=1555, 449.88075pt x 271.61475pt>
+File: Hinhve/admin_add_season.png Graphic file (type png)
+<use Hinhve/admin_add_season.png>
+Package pdftex.def Info: Hinhve/admin_add_season.png  used on input line 2554.
+(pdftex.def)             Requested size: 426.79135pt x 257.6761pt.
+<Hinhve/admin_edit_season.png, id=1557, 452.28975pt x 272.81924pt>
+File: Hinhve/admin_edit_season.png Graphic file (type png)
+<use Hinhve/admin_edit_season.png>
+Package pdftex.def Info: Hinhve/admin_edit_season.png  used on input line 2563.
+
+(pdftex.def)             Requested size: 426.79135pt x 257.44089pt.
+<Hinhve/admin_add_club_season_v2.png, id=1559, 443.85825pt x 462.528pt>
+File: Hinhve/admin_add_club_season_v2.png Graphic file (type png)
+<use Hinhve/admin_add_club_season_v2.png>
+Package pdftex.def Info: Hinhve/admin_add_club_season_v2.png  used on input lin
+e 2572.
+(pdftex.def)             Requested size: 426.79135pt x 444.75581pt.
+<Hinhve/admin_edit_club_season_v2.png, id=1561, 449.88075pt x 403.5075pt>
+File: Hinhve/admin_edit_club_season_v2.png Graphic file (type png)
+<use Hinhve/admin_edit_club_season_v2.png>
+Package pdftex.def Info: Hinhve/admin_edit_club_season_v2.png  used on input li
+ne 2581.
+(pdftex.def)             Requested size: 426.79135pt x 382.80045pt.
+<Hinhve/admin_matches.png, id=1563, 1142.46825pt x 386.6445pt>
+File: Hinhve/admin_matches.png Graphic file (type png)
+<use Hinhve/admin_matches.png>
+Package pdftex.def Info: Hinhve/admin_matches.png  used on input line 2591.
+(pdftex.def)             Requested size: 426.79135pt x 144.43675pt.
+<Hinhve/admin_add_match.png, id=1565, 448.67625pt x 461.92575pt>
+File: Hinhve/admin_add_match.png Graphic file (type png)
+<use Hinhve/admin_add_match.png>
+Package pdftex.def Info: Hinhve/admin_add_match.png  used on input line 2600.
+(pdftex.def)             Requested size: 426.79135pt x 439.41199pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[105 <./Hinhve/admin_add_season.png>]
+<Hinhve/admin_edit_match.png, id=1572, 447.47176pt x 468.5505pt>
+File: Hinhve/admin_edit_match.png Graphic file (type png)
+<use Hinhve/admin_edit_match.png>
+Package pdftex.def Info: Hinhve/admin_edit_match.png  used on input line 2609.
+(pdftex.def)             Requested size: 426.79135pt x 446.89352pt.
+<Hinhve/admin_match_actions.png, id=1574, 1115.367pt x 509.5035pt>
+File: Hinhve/admin_match_actions.png Graphic file (type png)
+<use Hinhve/admin_match_actions.png>
+Package pdftex.def Info: Hinhve/admin_match_actions.png  used on input line 261
+8.
+(pdftex.def)             Requested size: 426.79135pt x 194.9583pt.
+<Hinhve/admin_add_match_action.png, id=1576, 388.45125pt x 269.20575pt>
+File: Hinhve/admin_add_match_action.png Graphic file (type png)
+<use Hinhve/admin_add_match_action.png>
+Package pdftex.def Info: Hinhve/admin_add_match_action.png  used on input line 
+2627.
+(pdftex.def)             Requested size: 426.79135pt x 295.78217pt.
+<Hinhve/admin_edit_match_action.png, id=1578, 392.06474pt x 266.1945pt>
+File: Hinhve/admin_edit_match_action.png Graphic file (type png)
+<use Hinhve/admin_edit_match_action.png>
+Package pdftex.def Info: Hinhve/admin_edit_match_action.png  used on input line
+ 2636.
+(pdftex.def)             Requested size: 426.79135pt x 289.77257pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[106 <./Hinhve/admin_edit_season.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[107 <./Hinhve/admin_add_club_season_v2.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[108 <./Hinhve/admin_edit_club_season_v2.png> <./Hinhve/admin_matches.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[109 <./Hinhve/admin_add_match.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[110 <./Hinhve/admin_edit_match.png> <./Hinhve/admin_match_actions.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[111 <./Hinhve/admin_add_match_action.png> <./Hinhve/admin_edit_match_action.pn
+g>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[112]
+LaTeX Font Info: \kern \lst@width \kern \lst@width \kern \lst@width Calculating
+\kern \lst@width math\kern \lst@width sizes\kern \lst@width for\kern \lst@width
+ size\kern \lst@width <11.86258> on input line 2679.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[113]
+<Hinhve/dockerhub.png, id=1662, 1823.81375pt x 310.15875pt>
+File: Hinhve/dockerhub.png Graphic file (type png)
+<use Hinhve/dockerhub.png>
+Package pdftex.def Info: Hinhve/dockerhub.png  used on input line 2716.
+(pdftex.def)             Requested size: 426.79135pt x 72.57968pt.
+<Hinhve/render-create-web-service.png, id=1663, 1927.2pt x 1084.05pt>
+File: Hinhve/render-create-web-service.png Graphic file (type png)
+<use Hinhve/render-create-web-service.png>
+Package pdftex.def Info: Hinhve/render-create-web-service.png  used on input li
+ne 2723.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<Hinhve/render-web-service-existing-image.png, id=1664, 1877.0125pt x 546.04pt>
+
+File: Hinhve/render-web-service-existing-image.png Graphic file (type png)
+<use Hinhve/render-web-service-existing-image.png>
+Package pdftex.def Info: Hinhve/render-web-service-existing-image.png  used on 
+input line 2729.
+(pdftex.def)             Requested size: 426.79135pt x 124.15347pt.
+<Hinhve/render-choose-instance.png, id=1665, 1765.59625pt x 876.27374pt>
+File: Hinhve/render-choose-instance.png Graphic file (type png)
+<use Hinhve/render-choose-instance.png>
+Package pdftex.def Info: Hinhve/render-choose-instance.png  used on input line 
+2735.
+(pdftex.def)             Requested size: 426.79135pt x 211.82089pt.
+<Hinhve/render-environment-variable.png, id=1666, 1399.2275pt x 694.595pt>
+File: Hinhve/render-environment-variable.png Graphic file (type png)
+<use Hinhve/render-environment-variable.png>
+Package pdftex.def Info: Hinhve/render-environment-variable.png  used on input 
+line 2741.
+(pdftex.def)             Requested size: 426.79135pt x 211.85646pt.
+)
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[114 <./Hinhve/dockerhub.png (PNG copy)>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[115 <./Hinhve/render-create-web-service.png (PNG copy)> <./Hinhve/render-web-s
+ervice-existing-image.png (PNG copy)> <./Hinhve/render-choose-instance.png (PNG
+ copy)>]
+
+
+Package fancyhdr Warning: \headheight is too small (10.0pt): 
+(fancyhdr)                Make it at least 17.47202pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.47202pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-7.47202pt}.
+
+[116 <./Hinhve/render-environment-variable.png (PNG copy)>]
+Ch\uhorn \ohorn ng 5.
+(Chuong/5_Giai_phap_dong_gop.tex)
+
+[117
+
+]
+Overfull \hbox (4.75075pt too wide) in paragraph at lines 354--354
+[]\T5/ptm/m/n/13 React Docs, \T5/ptm/m/it/13 Learn re-act\T5/ptm/m/n/13 . Ac-ce
+ssed: May 9, 2025. [On-line]. Avail-able: []$\T5/pcr/m/n/13 https :
+ []
+
+
+Overfull \hbox (20.29774pt too wide) in paragraph at lines 354--354
+\T5/pcr/m/n/13 com / courses / java -[] spring -[] restful -[] apis -[] xay -[]
+ dung -[] backend -[]
+ []
+
+
+Overfull \hbox (2.57156pt too wide) in paragraph at lines 354--354
+\T5/ptm/m/n/13 Avail-able: []$\T5/pcr/m/n/13 https : / / www . geeksforgeeks . 
+org / json -[] web -[] token -[]
+ []
+
+
+
+[118
+
+] (BTL.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.19997pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `BTL.out' has not changed.
+(rerunfilecheck)             Checksum: C94A739290907AC80B7480BE464EDC0D;22951.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                BTL
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'BTL.run.xml'.
+\openout1 = `BTL.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 35081 strings out of 469940
+ 665932 string characters out of 5467957
+ 1549722 words of memory out of 5000000
+ 60832 multiletter control sequences out of 15000+600000
+ 672750 words of font info for 109 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,12n,107p,2506b,3293s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/duongvct/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><C:/Users/duongvct/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/duongvct/AppData/Local/Programs/MiKTeX/font
+s/type1/vntex/urwvn/ucrb8v.pfb><C:/Users/duongvct/AppData/Local/Programs/MiKTeX
+/fonts/type1/vntex/urwvn/ucrr8v.pfb><C:/Users/duongvct/AppData/Local/Programs/M
+iKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/duongvct/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/duongvct/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/duongvct/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on BTL.pdf (131 pages, 7927086 bytes).
+PDF statistics:
+ 1847 PDF objects out of 2073 (max. 8388607)
+ 464 named destinations out of 1000 (max. 500000)
+ 1234 words of extra memory for PDF output out of 10000 (max. 10000000)
+
