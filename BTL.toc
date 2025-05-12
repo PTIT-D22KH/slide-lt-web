@@ -211,6 +211,8 @@
 \contentsline {section}{\numberline {5.1}Kết luận}{117}{section.5.1}%
 \contentsline {section}{\numberline {5.2} Hướng phát triển}{117}{section.5.2}%
 \contentsline {chapter}{TÀI LIỆU THAM KHẢO}{118}{section*.92}%
+\contentsline {chapter}{PHỤ LỤC}{120}{section*.93}%
 \ttl@change@i {\@ne }{chapter}{0.0cm}{\bfseries \vspace {0.3cm}}{{\bfseries {\scshape } \thecontentslabel .\ }}{}{\titlerule *[0.3pc]{.}\contentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
+\contentsline {chapter}{\numberline {A}PHÂN CÔNG CÔNG VIỆC}{120}{appendix.1.A}%
 \contentsfinish 

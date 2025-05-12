@@ -3,7 +3,10 @@
 \changefontsizes{13pt}
 \usepackage[utf8]{vietnam}
 \usepackage[top=2cm, bottom=2cm, left=3.5cm, right=2.5cm]{geometry}
-
+\usepackage{booktabs}    % Để tạo bảng đẹp hơn
+\usepackage{tabularx}    % Cho phép tự động ngắt dòng
+\usepackage{colortbl}    % Hỗ trợ màu sắc cho bảng
+\usepackage{makecell}    % Để định dạng header
 \usepackage{graphicx} % Cho phép chèn hỉnh ảnh
 \usepackage{fancybox} % Tạo khung box
 \usepackage{indentfirst} % Thụt đầu dòng ở dòng đầu tiên trong đoạn
@@ -67,10 +70,10 @@
 
 
 \fancypagestyle{plain}{%
-\fancyhf{} % clear all header and footer fields
-\fancyfoot[RO,RE]{\thepage} %RO=right odd, RE=right even
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}}
+	\fancyhf{} % clear all header and footer fields
+	\fancyfoot[RO,RE]{\thepage} %RO=right odd, RE=right even
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}}
 
 \setlength{\headheight}{10pt}
 
@@ -81,44 +84,44 @@
 \titleformat{\chapter}[hang]{\centering\bfseries}{CHƯƠNG \thechapter.\ }{0pt}{}[]
 
 \titleformat 
-    {\chapter} % command
-    [hang] % shape
-    {\centering\bfseries} % format
-    {CHƯƠNG \thechapter.\ } % label
-    {0pt} %sep
-    {} % before
-    [] % after
+{\chapter} % command
+[hang] % shape
+{\centering\bfseries} % format
+{CHƯƠNG \thechapter.\ } % label
+{0pt} %sep
+{} % before
+[] % after
 \titlespacing*{\chapter}{0pt}{-20pt}{20pt}
 
 \titleformat
-    {\section} % command
-    [hang] % shape
-    {\bfseries} % format
-    {\thechapter.\arabic{section}\ \ \ \ } % label
-    {0pt} %sep
-    {} % before
-    [] % after
+{\section} % command
+[hang] % shape
+{\bfseries} % format
+{\thechapter.\arabic{section}\ \ \ \ } % label
+{0pt} %sep
+{} % before
+[] % after
 \titlespacing{\section}{0pt}{\parskip}{0.5\parskip}
 
 \titleformat
-    {\subsection} % command
-    [hang] % shape
-    {\bfseries} % format
-    {\thechapter.\arabic{section}.\arabic{subsection}\ \ \ \ } % label
-    {0pt} %sep
-    {} % before
-    [] % after
+{\subsection} % command
+[hang] % shape
+{\bfseries} % format
+{\thechapter.\arabic{section}.\arabic{subsection}\ \ \ \ } % label
+{0pt} %sep
+{} % before
+[] % after
 \titlespacing{\subsection}{30pt}{\parskip}{0.5\parskip}
 
 \renewcommand\thesubsubsection{\alph{subsubsection}}
 \titleformat
-    {\subsubsection} % command
-    [hang] % shape
-    {\bfseries} % format
-    {\alph{subsubsection}, \ } % label
-    {0pt} %sep
-    {} % before
-    [] % after
+{\subsubsection} % command
+[hang] % shape
+{\bfseries} % format
+{\alph{subsubsection}, \ } % label
+{0pt} %sep
+{} % before
+[] % after
 \titlespacing{\subsubsection}{50pt}{\parskip}{0.5\parskip}
 
 % \newcommand{\titlesize}{\fontsize{18pt}{23pt}\selectfont}
@@ -138,7 +141,7 @@
 \hypersetup{pdfborder = {0 0 0}} %
 \hypersetup{pdftitle={\TITLE},
 	pdfauthor={\AUTHOR}}
-	
+
 \usepackage[all]{hypcap} % Cho phép tham chiếu chính xác đến hình ảnh và bảng biểu
 
 \graphicspath{{figures/}{../figures/}} % Thư mục chứa các hình ảnh
@@ -173,170 +176,170 @@
 
 % Cấu hình style
 \lstdefinestyle{javastyle}{
-  language=Java,
-  basicstyle=\ttfamily\small,    % font cơ bản cho code
-  keywordstyle=\color{javared}\bfseries, % style cho từ khóa
-  stringstyle=\color{javapurple},        % style cho chuỗi
-  commentstyle=\color{javagreen}\itshape, % style cho comment
-  morecomment=[s][\color{javadocblue}]{/**}{*/}, % javadoc style
-  numbers=left,                  % vị trí hiển thị số dòng
-  numberstyle=\tiny\color{gray}, % style cho số dòng
-  stepnumber=1,                  % đánh số dòng theo bước nhảy
-  numbersep=8pt,                 % khoảng cách số dòng và code
-  showspaces=false,              % không hiển thị space
-  showstringspaces=false,        % không hiển thị space trong chuỗi
-  showtabs=false,                % không hiển thị tab
-  frame=single,                  % kiểu khung
-  tabsize=4,                     % độ rộng tab
-  captionpos=b,                  % vị trí caption
-  breaklines=true,               % tự động xuống dòng
-  breakatwhitespace=true,        % chỉ xuống dòng ở khoảng trắng
-  escapeinside={(*@}{@*)},       % đánh dấu để thêm LaTeX trong code
-  framexleftmargin=10pt,         % khoảng cách khung với lề trái
-  framextopmargin=2pt,           % khoảng cách khung với trên
-  framexbottommargin=2pt,        % khoảng cách khung với dưới
-  backgroundcolor=\color{white!97!black}, % màu nền nhẹ
-  rulecolor=\color{black!30},    % màu đường viền
-  xleftmargin=10pt,              % khoảng cách với lề trái
-  xrightmargin=5pt,              % khoảng cách với lề phải
-  aboveskip=1em,                 % khoảng cách phía trên
-  belowskip=1em,                 % khoảng cách phía dưới
+	language=Java,
+	basicstyle=\ttfamily\small,    % font cơ bản cho code
+	keywordstyle=\color{javared}\bfseries, % style cho từ khóa
+	stringstyle=\color{javapurple},        % style cho chuỗi
+	commentstyle=\color{javagreen}\itshape, % style cho comment
+	morecomment=[s][\color{javadocblue}]{/**}{*/}, % javadoc style
+	numbers=left,                  % vị trí hiển thị số dòng
+	numberstyle=\tiny\color{gray}, % style cho số dòng
+	stepnumber=1,                  % đánh số dòng theo bước nhảy
+	numbersep=8pt,                 % khoảng cách số dòng và code
+	showspaces=false,              % không hiển thị space
+	showstringspaces=false,        % không hiển thị space trong chuỗi
+	showtabs=false,                % không hiển thị tab
+	frame=single,                  % kiểu khung
+	tabsize=4,                     % độ rộng tab
+	captionpos=b,                  % vị trí caption
+	breaklines=true,               % tự động xuống dòng
+	breakatwhitespace=true,        % chỉ xuống dòng ở khoảng trắng
+	escapeinside={(*@}{@*)},       % đánh dấu để thêm LaTeX trong code
+	framexleftmargin=10pt,         % khoảng cách khung với lề trái
+	framextopmargin=2pt,           % khoảng cách khung với trên
+	framexbottommargin=2pt,        % khoảng cách khung với dưới
+	backgroundcolor=\color{white!97!black}, % màu nền nhẹ
+	rulecolor=\color{black!30},    % màu đường viền
+	xleftmargin=10pt,              % khoảng cách với lề trái
+	xrightmargin=5pt,              % khoảng cách với lề phải
+	aboveskip=1em,                 % khoảng cách phía trên
+	belowskip=1em,                 % khoảng cách phía dưới
 }
 
 % Đặt style mặc định cho listings
 \lstset{
-  style=javastyle,
-  breaklines=true,                % Enable automatic line breaking
-  breakatwhitespace=true,         % Break only at whitespace
-  breakindent=0pt,                % No indent after break
-  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}, % Optional arrow showing break
-  columns=flexible                % Better spacing handling
+	style=javastyle,
+	breaklines=true,                % Enable automatic line breaking
+	breakatwhitespace=true,         % Break only at whitespace
+	breakindent=0pt,                % No indent after break
+	postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}, % Optional arrow showing break
+	columns=flexible                % Better spacing handling
 }
 
 % =========================== BODY ===============
 \begin{document}
-% \newgeometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
-\subfile{Bia} % Phần bìa
-% \restoregeometry
-
-% ===================================================
-\pagenumbering{roman}
-% \pagestyle{empty} % Header và footer rỗng
-%\newpage
-%\subfile{chapters/0_1_subject.tex}
-
-\newpage
-\pagenumbering{gobble}
-\subfile{Chuong/0_2_Loi_cam_on.tex}
-
-% ===================================================
-% \pagestyle{empty} % Header và footer rỗng
-\newpage
-\pagenumbering{roman} % Xóa page numbering ở cuối trang
-\renewcommand*\contentsname{MỤC LỤC}
-
-\titlecontents{chapter}
-    [0.0cm]             % left margin
-    {\bfseries\vspace{0.3cm}}                  % above code
-    {{\bfseries{\scshape}
-    CHƯƠNG \thecontentslabel.\ }}
-    % numbered format
-    {}         % unnumbered format
-    {\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
-
-    
-\titlecontents{section}
-    [0.0cm]             % left margin
-    {\vspace{0.3cm}}                  % above code
-    {\thecontentslabel \ } % numbered format
-    {}         % unnumbered format
-    {\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
-    
-\titlecontents{subsection}
-    [1.0cm]             % left margin
-    {\vspace{0.3cm}}                  % above code
-    {\thecontentslabel \ } % numbered format
-    {}         % unnumbered format
-    {\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
-
- % Tạo mục lục tự động
-\addtocontents{toc}{\protect\thispagestyle{empty}}
-\tableofcontents 
-\thispagestyle{empty}
-\cleardoublepage
-
-% \pagenumbering{roman}
-%Tạo danh mục hình vẽ.
-\renewcommand{\listfigurename}{DANH MỤC HÌNH VẼ}
-{\let\oldnumberline\numberline
-\renewcommand{\numberline}{Hình~\oldnumberline}
-\listoffigures} 
-% \phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC HÌNH VẼ}
-\newpage
-
-
- %Tạo danh mục bảng biểu.
-\renewcommand{\listtablename}{DANH MỤC BẢNG BIỂU}
-{\let\oldnumberline\numberline
-\renewcommand{\numberline}{Bảng~\oldnumberline}
-\listoftables}
-% \phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC BẢNG BIỂU}
-
-\glsaddall 
- \renewcommand*{\glossaryname}{Danh sách thuật ngữ}
-\renewcommand*{\acronymname}{DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT}
-\renewcommand*{\entryname}{Thuật ngữ}
-\renewcommand*{\descriptionname}{Ý nghĩa}
-\printnoidxglossaries
-
-% \newpage
-%  \subfile{Chuong/0_5_Danh_muc_viet_tat.tex}
-
-% \newpage
-% \subfile{chapters/0_6_Thuat_ngu.tex}
-% ===================================================
-
-
-\newpage
-\pagenumbering{arabic}
-
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[RE, LO]{\leftmark}
-%\fancyhead[LE]{\rightmark}
-\fancyfoot[RE, LO]{\thepage}
-
-\chapter{MÔ TẢ, KHẢO SÁT VÀ XÁC ĐỊNH YÊU CẦU BÀI TOÁN}
-\label{chapter:Introduction}
-\subfile{Chuong/1_Gioi_thieu} % Phần mở đầu
-
-\newpage
-%\pagestyle{fancy} % Áp dụng header và footer
-\chapter{KIẾN THỨC ÁP DỤNG}
-\label{chapter:Related_works}
-\subfile{Chuong/2_Khao_sat}
-
-
-\newpage
-%\pagestyle{fancy} % Áp dụng header và footer
-\chapter{PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG}
-\label{chapter:Methodology}
-\subfile{Chuong/3_Cong_nghe}
-
-\newpage
-%\pagestyle{fancy} % Áp dụng header và footer
-\chapter{CÀI ĐẶT VÀ HƯỚNG DẪN SỬ DỤNG}
-\label{chapter:Experiment}
-\subfile{Chuong/4_Ket_qua_thuc_nghiem}
-
-\newpage
-%\pagestyle{fancy} % Áp dụng header và footer
-\chapter{KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}
-\label{chapter:SolutionAndContribution}
-\subfile{Chuong/5_Giai_phap_dong_gop}
-\newpage
-%\pagestyle{fancy} % Áp dụng header và footer
-% \chapter{KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN} %Kết luận và hướng phát triển}
+	% \newgeometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
+	\subfile{Bia} % Phần bìa
+	% \restoregeometry
+	
+	% ===================================================
+	\pagenumbering{roman}
+	% \pagestyle{empty} % Header và footer rỗng
+	%\newpage
+	%\subfile{chapters/0_1_subject.tex}
+	
+	\newpage
+	\pagenumbering{gobble}
+	\subfile{Chuong/0_2_Loi_cam_on.tex}
+	
+	% ===================================================
+	% \pagestyle{empty} % Header và footer rỗng
+	\newpage
+	\pagenumbering{roman} % Xóa page numbering ở cuối trang
+	\renewcommand*\contentsname{MỤC LỤC}
+	
+	\titlecontents{chapter}
+	[0.0cm]             % left margin
+	{\bfseries\vspace{0.3cm}}                  % above code
+	{{\bfseries{\scshape}
+			CHƯƠNG \thecontentslabel.\ }}
+	% numbered format
+	{}         % unnumbered format
+	{\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
+	
+	
+	\titlecontents{section}
+	[0.0cm]             % left margin
+	{\vspace{0.3cm}}                  % above code
+	{\thecontentslabel \ } % numbered format
+	{}         % unnumbered format
+	{\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
+	
+	\titlecontents{subsection}
+	[1.0cm]             % left margin
+	{\vspace{0.3cm}}                  % above code
+	{\thecontentslabel \ } % numbered format
+	{}         % unnumbered format
+	{\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
+	
+	% Tạo mục lục tự động
+	\addtocontents{toc}{\protect\thispagestyle{empty}}
+	\tableofcontents 
+	\thispagestyle{empty}
+	\cleardoublepage
+	
+	% \pagenumbering{roman}
+	%Tạo danh mục hình vẽ.
+	\renewcommand{\listfigurename}{DANH MỤC HÌNH VẼ}
+	{\let\oldnumberline\numberline
+		\renewcommand{\numberline}{Hình~\oldnumberline}
+		\listoffigures} 
+	% \phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC HÌNH VẼ}
+	\newpage
+	
+	
+	%Tạo danh mục bảng biểu.
+	\renewcommand{\listtablename}{DANH MỤC BẢNG BIỂU}
+	{\let\oldnumberline\numberline
+		\renewcommand{\numberline}{Bảng~\oldnumberline}
+		\listoftables}
+	% \phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC BẢNG BIỂU}
+	
+	\glsaddall 
+	\renewcommand*{\glossaryname}{Danh sách thuật ngữ}
+	\renewcommand*{\acronymname}{DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT}
+	\renewcommand*{\entryname}{Thuật ngữ}
+	\renewcommand*{\descriptionname}{Ý nghĩa}
+	\printnoidxglossaries
+	
+	% \newpage
+	%  \subfile{Chuong/0_5_Danh_muc_viet_tat.tex}
+	
+	% \newpage
+	% \subfile{chapters/0_6_Thuat_ngu.tex}
+	% ===================================================
+	
+	
+	\newpage
+	\pagenumbering{arabic}
+	
+	\pagestyle{fancy}
+	\fancyhf{}
+	\fancyhead[RE, LO]{\leftmark}
+	%\fancyhead[LE]{\rightmark}
+	\fancyfoot[RE, LO]{\thepage}
+	
+	\chapter{MÔ TẢ, KHẢO SÁT VÀ XÁC ĐỊNH YÊU CẦU BÀI TOÁN}
+	\label{chapter:Introduction}
+	\subfile{Chuong/1_Gioi_thieu} % Phần mở đầu
+	
+	\newpage
+	%\pagestyle{fancy} % Áp dụng header và footer
+	\chapter{KIẾN THỨC ÁP DỤNG}
+	\label{chapter:Related_works}
+	\subfile{Chuong/2_Khao_sat}
+	
+	
+	\newpage
+	%\pagestyle{fancy} % Áp dụng header và footer
+	\chapter{PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG}
+	\label{chapter:Methodology}
+	\subfile{Chuong/3_Cong_nghe}
+	
+	\newpage
+	%\pagestyle{fancy} % Áp dụng header và footer
+	\chapter{CÀI ĐẶT VÀ HƯỚNG DẪN SỬ DỤNG}
+	\label{chapter:Experiment}
+	\subfile{Chuong/4_Ket_qua_thuc_nghiem}
+	
+	\newpage
+	%\pagestyle{fancy} % Áp dụng header và footer
+	\chapter{KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}
+	\label{chapter:SolutionAndContribution}
+	\subfile{Chuong/5_Giai_phap_dong_gop}
+	\newpage
+	%\pagestyle{fancy} % Áp dụng header và footer
+	% \chapter{KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN} %Kết luận và hướng phát triển}
 % \label{chapter:conclusion}
 % \subfile{Chuong/6_Ket_luan}
 
@@ -353,9 +356,9 @@
 \printbibliography
 \phantomsection\addcontentsline{toc}{chapter}{TÀI LIỆU THAM KHẢO}
 
-% \appendixpage
-% \appendices
-% \addappheadtotoc
+\appendixpage
+\appendices
+\addappheadtotoc
 
 % \chapter*{PHỤ LỤC} %Kết luận và hướng phát triển}
 
@@ -364,13 +367,13 @@
 \titlespacing*{\chapter}{0pt}{-20pt}{20pt}
 
 \titlecontents{chapter}
-    [0.0cm]             % left margin
-    {\bfseries\vspace{0.3cm}}                  % above code
-    {{\bfseries{\scshape} \thecontentslabel.\ }} % numbered format
-    {}         % unnumbered format
-    {\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
-% \chapter{HƯỚNG DẪN VIẾT BÀI TẬP LỚN}
-% \subfile{Chuong/Phu_luc_A}
+[0.0cm]             % left margin
+{\bfseries\vspace{0.3cm}}                  % above code
+{{\bfseries{\scshape} \thecontentslabel.\ }} % numbered format
+{}         % unnumbered format
+{\titlerule*[0.3pc]{.}\contentspage}         % filler-page-format, e.g dots
+\chapter{PHÂN CÔNG CÔNG VIỆC}
+\subfile{Chuong/Phu_luc_A}
 % \newpage
 % \chapter{ĐẶC TẢ USE CASE}
 % \subfile{Chuong/Phu_luc_B}
