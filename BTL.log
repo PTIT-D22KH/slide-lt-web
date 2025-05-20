@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  13 MAY 2025 05:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  20 MAY 2025 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3482,58 +3482,58 @@ org / json -[] web -[] token -[]
 ]
 Ph\d {u} l\d {u}c A.
 (Chuong/Phu_luc_A.tex
-Underfull \hbox (badness 2469) in paragraph at lines 21--21
-[]|\T5/ptm/m/n/13 - L m fron-
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\T5/ptm/b/n/11.86258 %
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 21--21
-\T5/ptm/m/n/13 - L m back-
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\T5/ptm/b/n/11.86258 ^^_âng
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T5/ptm/m/n/13 end l m
+Underfull \hbox (badness 2626) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 - L m back-end
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T5/ptm/m/n/13 ph¦n x¡c
+Underfull \hbox (badness 4229) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 ph¦n x¡c thüc,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T5/ptm/m/n/13 thüc, ph¥n
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 ph¥n quy·n,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T5/ptm/m/n/13 k¸t qu£ tr£
+Underfull \hbox (badness 2027) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 for-mat k¸t qu£,
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 21--21
-\T5/ptm/m/n/13 v·, vi¸t c¡c
+Underfull \hbox (badness 4378) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 vi¸t c¡c en-tity,
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 21--21
-\T5/ptm/m/n/13 tory, ser-vice,
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 repos-i-tory, ser-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T5/ptm/m/n/13 player, club,
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\T5/ptm/m/n/11.86258 vice, con-troller
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 21--21
-[]|\T5/ptm/m/n/13 - L m back-
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\T5/ptm/m/n/11.86258 Nguy¹n Sìn
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 21--21
-\T5/ptm/m/n/13 v  giao di»n
+Underfull \hbox (badness 2626) in paragraph at lines 23--23
+[]|\T5/ptm/m/n/11.86258 - L m back-end
  []
 
 )
@@ -3581,7 +3581,7 @@ iKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/duongvct/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/duongvct/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/duongvct/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on BTL.pdf (133 pages, 7931302 bytes).
+Output written on BTL.pdf (133 pages, 7931998 bytes).
 PDF statistics:
  1872 PDF objects out of 2073 (max. 8388607)
  469 named destinations out of 1000 (max. 500000)

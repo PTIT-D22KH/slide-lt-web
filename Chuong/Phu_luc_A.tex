@@ -1,22 +1,24 @@
 \documentclass[../BTL.tex]{subfiles}
 \begin{document}
-
+	
 \begin{table}[htbp]
 	\centering
+	\small
+	\renewcommand{\arraystretch}{1.2}
 	\caption{Phân công công việc trong nhóm}
 	\label{tab:phan-cong-cong-viec}
-	\begin{tabularx}{\textwidth}{|c|l|c|X|c|}
+	\begin{tabularx}{\textwidth}{|c|p{2.5cm}|c|X|c|p{1.3cm}|}
 		\hline
-		\textbf{STT} & \textbf{Họ và tên} & \textbf{Mã sinh viên} & \textbf{Công việc} & \textbf{Xác nhận} \\
+		\textbf{STT} & \textbf{Họ và tên} & \textbf{Mã SV} & \textbf{Công việc} & \textbf{Xác nhận} & \textbf{\% đóng góp} \\
 		\hline
 		1 & Vũ Công Tuấn Dương & B22DCKH024 & 
 		- Làm frontend\newline
-		- Làm backend làm phần xác thực, phân quyền, format kết quả trả về, viết các entity, repository, service, controller của player, club, coach và các truy vấn\newline
-		- Báo cáo làm các phần còn lại & Đã hoàn thành \\
+		- Làm backend phần xác thực, phân quyền, format kết quả, viết các entity, repository, service, controller của player, club, coach\newline
+		- Báo cáo phần còn lại & Đã hoàn thành & 60\% \\
 		\hline
 		2 & Nguyễn Sơn Tùng & B22DCKH768 & 
 		- Làm backend các entity còn lại\newline
-		- Báo cáo làm phần biểu đồ và giao diện user & Đã hoàn thành \\
+		- Báo cáo phần biểu đồ và giao diện user & Đã hoàn thành & 40\% \\
 		\hline
 	\end{tabularx}
 \end{table}
